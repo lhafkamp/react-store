@@ -1,0 +1,4 @@
+node_modules/
+/backend/variables.env.sample
+/backend/variables.env
+.DS_Store
