@@ -1,4 +1,5 @@
 node_modules/
+/backend/src/generated/
 /backend/variables.env.sample
 /backend/variables.env
 .DS_Store
